@@ -48,11 +48,11 @@
     "imageResize": true,
     "publishChangesOnly": false,
     "favicon": false,
-    "mbrsiteDomain": "rioo37",
+    "mbrsiteDomain": "bawanegouri",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
+    "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false
